@@ -1,3 +1,5 @@
+#This is just a code which is made for me to make a quick random decision😅
+#... ahhh nothing more than that a simple thing that heping me a lot!
 import random 
 
 toss = random.randint(0,1)
